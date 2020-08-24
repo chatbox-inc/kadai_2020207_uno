@@ -190,6 +190,11 @@ export default {
            width:3vw;
        }
     }
+
+
+
+
+    
     .contact-text{
         display:flex;
     }
