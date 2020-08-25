@@ -194,7 +194,7 @@ export default {
 
 
 
-    
+
     .contact-text{
         display:flex;
     }
@@ -220,5 +220,10 @@ export default {
         display:flex;
     }
 }
+
+
+
+
+
 
 </style>
