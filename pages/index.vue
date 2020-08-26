@@ -5,11 +5,13 @@
     <a class="orange" href="#">
       <div class="buy">
         <img src="~assets/image/right-arrow-white.svg" alt="">
+        <div class="buy-border">
         <p class="buy-item">ご購入はこちら</p>
       </div>
+      </div>
       <div class="orange-image">
-        <img src="~assets/image/face-bo-04.jpg" alt="">
         <img src="~assets/image/face-bo-06.jpg" alt="">
+        <img src="~assets/image/face-bo-03.jpg" alt="">
         <img src="~assets/image/package-01.png" alt="">
       </div>
     </a>
@@ -109,6 +111,7 @@
         <img class="info-dog" src="~assets/image/half-bb-06.jpg" alt="">
 
       </div>
+
       <div class="info-item">
         <h3>羽田空港第2ターミナル食賓館B</h3>
         <div class="info-cale">
@@ -125,176 +128,252 @@
         </div>
         <div class="google-map">
           <div class="info-text">
-            <p>Google Maps</p>
+            <p class="google-white">Google Maps</p>
           </div>
           <img src="~assets/image/right-arrow-white.svg" alt="">
         </div>
         <div class="info-gift">
           <img src="~assets/image/icon_item.jpg" alt="">
           <div class="gift-box">
-          <p>メープルクッキー</p>
-          <p>メープルフィナンシェ</p>
-          <p>メープルバームクーヘン</p>
-          <p>メープルギフト</p>
-        </div>
-        </div>
+            <div class="gift-box1">
+              <p class="gift-margin">メープルクッキー</p>
+              <p>9枚・18枚・限定PKG32枚</p>
+            </div>
+            <div class="gift-box1">
+              <p class="gift-margin">メープルフィナンシェ</p>
+              <p>6個入・12個入</p>
+            </div>
+            <div class="gift-box1">
+              <p class="gift-margin">メープルバームクーヘン</p>
+              <p></p>
+            </div>
+            <div class="gift-box1">
+              <p class="gift-margin">メープルギフト</p>
+              <p>18個入・28個入</p>
+            </div>
+             </div>
+            </div>
         
-      </div>
-      <div class="info-item">
-        <h3>羽田空港第2ターミナル食賓館B</h3>
-        <div class="info-cale">
-          <img src="~assets/image/icon_cal.jpg" alt="">
-          <p>ご好評につき延長決定!!</p>
-        </div>
-        <div class="info-time">
-          <img src="~assets/image/icon_time.jpg" alt="">
-          <p>6:30 — 19:00（短縮営業）</p>
-        </div>
-        <div class="info-map">
-          <img src="~assets/image/icon_address.jpg" alt="">
-          <p>〒144-0041<br>東京都大田区羽田空港3-4-2<br>羽田空港第二旅客ターミナル2F 時計台3番前<br>https://tokyo-<br>haneda.com/shop_and_dine/detail/tenant_00293.html</p>
-        </div>
-        <div class="google-map">
-          <div class="info-text">
-            <p>Google Maps</p>
-          </div>
-          <img src="~assets/image/right-arrow-white.svg" alt="">
-        </div>
-        <div class="info-gift">
-          <img src="~assets/image/icon_item.jpg" alt="">
-          <div class="gift-box">
-          <p>メープルクッキー</p>
-          <p>メープルフィナンシェ</p>
-          <p>メープルバームクーヘン</p>
-          <p>メープルギフト</p>
-        </div>
-        </div>
-        
-      </div>
-      <div class="info-item">
-        <h3>羽田空港第2ターミナル食賓館B</h3>
-        <div class="info-cale">
-          <img src="~assets/image/icon_cal.jpg" alt="">
-          <p>ご好評につき延長決定!!</p>
-        </div>
-        <div class="info-time">
-          <img src="~assets/image/icon_time.jpg" alt="">
-          <p>6:30 — 19:00（短縮営業）</p>
-        </div>
-        <div class="info-map">
-          <img src="~assets/image/icon_address.jpg" alt="">
-          <p>〒144-0041<br>東京都大田区羽田空港3-4-2<br>羽田空港第二旅客ターミナル2F 時計台3番前<br>https://tokyo-<br>haneda.com/shop_and_dine/detail/tenant_00293.html</p>
-        </div>
-        <div class="google-map">
-          <div class="info-text">
-            <p>Google Maps</p>
-          </div>
-          <img src="~assets/image/right-arrow-white.svg" alt="">
-        </div>
-        <div class="info-gift">
-          <img src="~assets/image/icon_item.jpg" alt="">
-          <div class="gift-box">
-          <p>メープルクッキー</p>
-          <p>メープルフィナンシェ</p>
-          <p>メープルバームクーヘン</p>
-          <p>メープルギフト</p>
-        </div>
-        </div>
-        
-      </div>
-      <div class="info-item">
-        <h3>羽田空港第2ターミナル食賓館B</h3>
-        <div class="info-cale">
-          <img src="~assets/image/icon_cal.jpg" alt="">
-          <p>ご好評につき延長決定!!</p>
-        </div>
-        <div class="info-time">
-          <img src="~assets/image/icon_time.jpg" alt="">
-          <p>6:30 — 19:00（短縮営業）</p>
-        </div>
-        <div class="info-map">
-          <img src="~assets/image/icon_address.jpg" alt="">
-          <p>〒144-0041<br>東京都大田区羽田空港3-4-2<br>羽田空港第二旅客ターミナル2F 時計台3番前<br>https://tokyo-<br>haneda.com/shop_and_dine/detail/tenant_00293.html</p>
-        </div>
-        <div class="google-map">
-          <div class="info-text">
-            <p>Google Maps</p>
-          </div>
-          <img src="~assets/image/right-arrow-white.svg" alt="">
-        </div>
-        <div class="info-gift">
-          <img src="~assets/image/icon_item.jpg" alt="">
-          <div class="gift-box">
-          <p>メープルクッキー</p>
-          <p>メープルフィナンシェ</p>
-          <p>メープルバームクーヘン</p>
-          <p>メープルギフト</p>
-        </div>
-        </div>
-        
-      </div>
-      <div class="info-item">
-        <h3>羽田空港第2ターミナル食賓館B</h3>
-        <div class="info-cale">
-          <img src="~assets/image/icon_cal.jpg" alt="">
-          <p>ご好評につき延長決定!!</p>
-        </div>
-        <div class="info-time">
-          <img src="~assets/image/icon_time.jpg" alt="">
-          <p>6:30 — 19:00（短縮営業）</p>
-        </div>
-        <div class="info-map">
-          <img src="~assets/image/icon_address.jpg" alt="">
-          <p>〒144-0041<br>東京都大田区羽田空港3-4-2<br>羽田空港第二旅客ターミナル2F 時計台3番前<br>https://tokyo-<br>haneda.com/shop_and_dine/detail/tenant_00293.html</p>
-        </div>
-        <div class="google-map">
-          <div class="info-text">
-            <p>Google Maps</p>
-          </div>
-          <img src="~assets/image/right-arrow-white.svg" alt="">
-        </div>
-        <div class="info-gift">
-          <img src="~assets/image/icon_item.jpg" alt="">
-          <div class="gift-box">
-          <p>メープルクッキー</p>
-          <p>メープルフィナンシェ</p>
-          <p>メープルバームクーヘン</p>
-          <p>メープルギフト</p>
-        </div>
-        </div>
-        
-      </div>
-      <div class="info-item">
-        <h3>羽田空港第2ターミナル食賓館B</h3>
-        <div class="info-cale">
-          <img src="~assets/image/icon_cal.jpg" alt="">
-          <p>ご好評につき延長決定!!</p>
-        </div>
-        <div class="info-time">
-          <img src="~assets/image/icon_time.jpg" alt="">
-          <p>6:30 — 19:00（短縮営業）</p>
-        </div>
-        <div class="info-map">
-          <img src="~assets/image/icon_address.jpg" alt="">
-          <p>〒144-0041<br>東京都大田区羽田空港3-4-2<br>羽田空港第二旅客ターミナル2F 時計台3番前<br>https://tokyo-<br>haneda.com/shop_and_dine/detail/tenant_00293.html</p>
-        </div>
-        <div class="google-map">
-          <div class="info-text">
-            <p>Google Maps</p>
-          </div>
-          <img src="~assets/image/right-arrow-white.svg" alt="">
-        </div>
-        <div class="info-gift">
-          <img src="~assets/image/icon_item.jpg" alt="">
-          <div class="gift-box">
-          <p>メープルクッキー</p>
-          <p>メープルフィナンシェ</p>
-          <p>メープルバームクーヘン</p>
-          <p>メープルギフト</p>
-        </div>
-        </div>
-        
-      </div>
+            </div>
+
+            <div class="info-item">
+              <h3>羽田空港第1旅客ターミナル出発ロビー
+                <br>
+                東京食賓館２
+              </h3>
+              <div class="info-cale">
+                <img src="~assets/image/icon_cal.jpg" alt="">
+                <p>ご好評につき延長決定!!</p>
+              </div>
+              <div class="info-time">
+                <img src="~assets/image/icon_time.jpg" alt="">
+                <p>7:00 - 19:00（短縮営業）</p>
+              </div>
+              <div class="info-map">
+                <img src="~assets/image/icon_address.jpg" alt="">
+                <p>〒144-0041<br>東京都大田区羽田空港3-3-2<br>羽田空港第一旅客ターミナル2F東京食賓館Cゲート前<br>https://tokyo-<br>haneda.com/shop_and_dine/detail/tenant_00290.html</p>
+              </div>
+              <div class="google-map">
+                <div class="info-text">
+                  <p class="google-white">Google Maps</p>
+                </div>
+                <img src="~assets/image/right-arrow-white.svg" alt="">
+              </div>
+              <div class="info-gift">
+                <img src="~assets/image/icon_item.jpg" alt="">
+                <div class="gift-box">
+                  <div class="gift-box1">
+                    <p class="gift-margin">メープルクッキー</p>
+                    <p>9枚・18枚・限定PKG32枚</p>
+                  </div>
+                  <div class="gift-box1">
+                    <p class="gift-margin">メープルフィナンシェ</p>
+                    <p>6個入・12個入</p>
+                  </div>
+                  <div class="gift-box1">
+                    <p class="gift-margin">メープルバームクーヘン</p>
+                    <p></p>
+                  </div>
+                  <div class="gift-box1">
+                    <p class="gift-margin">メープルギフト</p>
+                    <p>18個入・28個入</p>
+                  </div>
+                   </div>
+                  </div>
+              
+                  </div>
+                  <div class="info-item">
+                    <h3>ソラマチ　6番地</h3>
+                    <div class="info-cale">
+                      <img src="~assets/image/icon_cal.jpg" alt="">
+                      <p>2020/8/1~2020/8/31</p>
+                    </div>
+                    <div class="info-time">
+                      <img src="~assets/image/icon_time.jpg" alt="">
+                      <p>10:00 — 21:00</p>
+                    </div>
+                    <div class="info-map">
+                      <img src="~assets/image/icon_address.jpg" alt="">
+                      <p>〒131-0045<br>東京都墨田区押上１-１1２<br>東京スカイツリーソラマチ<br>2階　6番地スイーツイベント</p>
+                    </div>
+                    <div class="google-map">
+                      <div class="info-text">
+                        <p class="google-white">Google Maps</p>
+                      </div>
+                      <img src="~assets/image/right-arrow-white.svg" alt="">
+                    </div>
+                    <div class="info-gift">
+                      <img src="~assets/image/icon_item.jpg" alt="">
+                      <div class="gift-box">
+                        <div class="gift-box1">
+                          <p class="gift-margin">メープルクッキー</p>
+                          <p>9枚・18枚・32枚</p>
+                        </div>
+                        <div class="gift-box1">
+                          <p class="gift-margin">メープルフィナンシェ</p>
+                          <p>6個入・12個入</p>
+                        </div>
+                        <div class="gift-box1">
+                          <p class="gift-margin">メープルバームクーヘン</p>
+                          <p></p>
+                        </div>
+                        <div class="gift-box1">
+                          <p class="gift-margin">メープルギフト</p>
+                          <p>18個入・28個入</p>
+                        </div>
+                         </div>
+                        </div>
+                    
+                        </div>
+                        <div class="info-item">
+                          <h3>小田急新宿</h3>
+                          <div class="info-cale">
+                            <img src="~assets/image/icon_cal.jpg" alt="">
+                            <p>2020/8/5～2020/8/18</p>
+                          </div>
+                          <div class="info-time">
+                            <img src="~assets/image/icon_time.jpg" alt="">
+                            <p>10:00-20:00</p>
+                          </div>
+                          <div class="info-map">
+                            <img src="~assets/image/icon_address.jpg" alt="">
+                            <p>〒160-8001<br>東京都新宿区西新宿１丁目１−３<br>小田急百貨店新宿店<br>B2F シーズンスイーツ</p>
+                          </div>
+                          <div class="google-map">
+                            <div class="info-text">
+                              <p class="google-white">Google Maps</p>
+                            </div>
+                            <img src="~assets/image/right-arrow-white.svg" alt="">
+                          </div>
+                          <div class="info-gift">
+                            <img src="~assets/image/icon_item.jpg" alt="">
+                            <div class="gift-box">
+                              <div class="gift-box1">
+                                <p class="gift-margin">メープルクッキー</p>
+                                <p>9枚・18枚・32枚</p>
+                              </div>
+                              <div class="gift-box1">
+                                <p class="gift-margin">メープルフィナンシェ</p>
+                                <p>6個入・12個入</p>
+                              </div>
+                              <div class="gift-box1">
+                                <p class="gift-margin">メープルバームクーヘン</p>
+                                <p></p>
+                              </div>
+                              <div class="gift-box1">
+                                <p class="gift-margin">メープルギフト</p>
+                                <p>18個入・28個入</p>
+                              </div>
+                               </div>
+                              </div>
+                          
+                              </div>
+                              <div class="info-item">
+                                <h3>東武百貨店池袋店　６番地</h3>
+                                <div class="info-cale">
+                                  <img src="~assets/image/icon_cal.jpg" alt="">
+                                  <p>2020/8/6～2020/8/18</p>
+                                </div>
+                                <div class="info-time">
+                                  <img src="~assets/image/icon_time.jpg" alt="">
+                                  <p>10:00-20:00</p>
+                                </div>
+                                <div class="info-map">
+                                  <img src="~assets/image/icon_address.jpg" alt="">
+                                  <p>〒171-8512<br>東京都豊島区西池袋1-1-25<br>東武百貨店　池袋店<br>B1F 6番地 シュクレイ催事</p>
+                                </div>
+                                <div class="google-map">
+                                  <div class="info-text">
+                                    <p class="google-white">Google Maps</p>
+                                  </div>
+                                  <img src="~assets/image/right-arrow-white.svg" alt="">
+                                </div>
+                                <div class="info-gift">
+                                  <img src="~assets/image/icon_item.jpg" alt="">
+                                  <div class="gift-box">
+                                    <div class="gift-box1">
+                                      <p class="gift-margin">メープルクッキー</p>
+                                      <p>9枚・18枚・限定PKG32枚</p>
+                                    </div>
+                                    <div class="gift-box1">
+                                      <p class="gift-margin">メープルフィナンシェ</p>
+                                      <p>6個入・12個入</p>
+                                    </div>
+                                    <div class="gift-box1">
+                                      <p class="gift-margin">メープルバームクーヘン</p>
+                                      <p></p>
+                                    </div>
+                                    <div class="gift-box1">
+                                      <p class="gift-margin">メープルギフト</p>
+                                      <p>18個入・28個入</p>
+                                    </div>
+                                     </div>
+                                    </div>
+                                
+                                    </div>
+                                    <div class="info-item">
+                                      <h3>名古屋タカシマヤ　地下1階改装区画</h3>
+                                      <div class="info-cale">
+                                        <img src="~assets/image/icon_cal.jpg" alt="">
+                                        <p>2020/8/6～2020/8/18</p>
+                                      </div>
+                                      <div class="info-time">
+                                        <img src="~assets/image/icon_time.jpg" alt="">
+                                        <p>10:00-20:00</p>
+                                      </div>
+                                      <div class="info-map">
+                                        <img src="~assets/image/icon_address.jpg" alt="">
+                                        <p>〒450-6001<br>愛知県名古屋市中村区名駅1-1-4<br>ジェイアール名古屋タカシマヤB1F<br>改装区画</p>
+                                      </div>
+                                      <div class="google-map">
+                                        <div class="info-text">
+                                          <p class="google-white">Google Maps</p>
+                                        </div>
+                                        <img src="~assets/image/right-arrow-white.svg" alt="">
+                                      </div>
+                                      <div class="info-gift">
+                                        <img src="~assets/image/icon_item.jpg" alt="">
+                                        <div class="gift-box">
+                                          <div class="gift-box1">
+                                            <p class="gift-margin">メープルクッキー</p>
+                                            <p>9枚・18枚・限定PKG32枚</p>
+                                          </div>
+                                          <div class="gift-box1">
+                                            <p class="gift-margin">メープルフィナンシェ</p>
+                                            <p>6個入・12個入</p>
+                                          </div>
+                                          <div class="gift-box1">
+                                            <p class="gift-margin">メープルバームクーヘン</p>
+                                            <p></p>
+                                          </div>
+                                          <div class="gift-box1">
+                                            <p class="gift-margin">メープルギフト</p>
+                                            <p>18個入・28個入</p>
+                                          </div>
+                                           </div>
+                                          </div>
+                                      
+                                          </div>
 </div>
     <div class="info-bottom">
       <img src="~assets/image/half-bb-02.jpg" alt="">
@@ -311,6 +390,7 @@
       </div>
 
     </div>
+
     <div class="product2">
       <div class="product2-center">
       <div class="product2-item">
@@ -318,25 +398,30 @@
           <img src="~assets/image/thumbnail (4).jpg" alt="">
         </div>
         <div class="product2-bottom">
-          <div class="product2-center">
+          <div class="product2-logo">
             <img src="~assets/image/logo (1).svg" alt="">
             <p>メープルバタークッキー</p>
+          </div>
+          <div class="product2-text">
             <p>メープルシュガーと発酵バターを生地にたっぷりと練りこみ、サクサクと軽い食感に焼き上げたクッキーでバターチョコレートをサンドしました。発売当初から愛されている人気No.１商品です。</p>
           </div>
-          <div class="product2-number">
-            <p>9 枚入</p>
-            <p>950 円 (税込)</p>
-          </div>
-          <div class="product2-number">
-            <p>18 枚入</p>
-            <p>1,900 円 (税込)</p>
-          </div>
-          <div class="product2-number">
-            <p>32 枚入</p>
-            <p>3,370 円 (税込)</p>
-          </div>
+          <div class="produst2-price">
+            <div class="product2-flex">
+              <p>9枚入</p>
+              <p class="product2-margin">950円(税別)</p>
+            </div>
+            <div class="product2-flex">
+              <p>18枚入</p>
+              <p class="product2-margin">1.900円(税別)</p>
+            </div>
+            <div class="product2-flex">
+              <p>32枚入</p>
+              <p class="product2-margin">3,370円(税別)</p>
+            </div>
+             </div>
+
           <div class="product-detail">
-            <p>詳細はこちら</p>
+            <p><a href="#">詳細はこちら</a></p>
           </div>
         </div>
       </div>
@@ -346,112 +431,132 @@
           <img src="~assets/image/thumbnail (4).jpg" alt="">
         </div>
         <div class="product2-bottom">
-          <div class="product2-center">
+          <div class="product2-logo">
             <img src="~assets/image/logo (1).svg" alt="">
             <p>メープルバタークッキー</p>
+          </div>
+          <div class="product2-text">
             <p>メープルシュガーと発酵バターを生地にたっぷりと練りこみ、サクサクと軽い食感に焼き上げたクッキーでバターチョコレートをサンドしました。発売当初から愛されている人気No.１商品です。</p>
           </div>
-          <div class="product2-number">
-            <p>9 枚入</p>
-            <p>950 円 (税込)</p>
-          </div>
-          <div class="product2-number">
-            <p>18 枚入</p>
-            <p>1,900 円 (税込)</p>
-          </div>
-          <div class="product2-number">
-            <p>32 枚入</p>
-            <p>3,370 円 (税込)</p>
-          </div>
+          <div class="produst2-price">
+            <div class="product2-flex">
+              <p>9枚入</p>
+              <p class="product2-margin">950円(税別)</p>
+            </div>
+            <div class="product2-flex">
+              <p>18枚入</p>
+              <p class="product2-margin">1.900円(税別)</p>
+            </div>
+            <div class="product2-flex">
+              <p>32枚入</p>
+              <p class="product2-margin">3,370円(税別)</p>
+            </div>
+             </div>
+
           <div class="product-detail">
-            <p>詳細はこちら</p>
+            <p><a href="#">詳細はこちら</a></p>
           </div>
         </div>
       </div>
-
       <div class="product2-item">
         <div class="product2-top">
           <img src="~assets/image/thumbnail (4).jpg" alt="">
         </div>
         <div class="product2-bottom">
-          <div class="product2-center">
+          <div class="product2-logo">
             <img src="~assets/image/logo (1).svg" alt="">
             <p>メープルバタークッキー</p>
+          </div>
+          <div class="product2-text">
             <p>メープルシュガーと発酵バターを生地にたっぷりと練りこみ、サクサクと軽い食感に焼き上げたクッキーでバターチョコレートをサンドしました。発売当初から愛されている人気No.１商品です。</p>
           </div>
-          <div class="product2-number">
-            <p>9 枚入</p>
-            <p>950 円 (税込)</p>
-          </div>
-          <div class="product2-number">
-            <p>18 枚入</p>
-            <p>1,900 円 (税込)</p>
-          </div>
-          <div class="product2-number">
-            <p>32 枚入</p>
-            <p>3,370 円 (税込)</p>
-          </div>
+          <div class="produst2-price">
+            <div class="product2-flex">
+              <p>9枚入</p>
+              <p class="product2-margin">950円(税別)</p>
+            </div>
+            <div class="product2-flex">
+              <p>18枚入</p>
+              <p class="product2-margin">1.900円(税別)</p>
+            </div>
+            <div class="product2-flex">
+              <p>32枚入</p>
+              <p class="product2-margin">3,370円(税別)</p>
+            </div>
+             </div>
+
           <div class="product-detail">
-            <p>詳細はこちら</p>
+            <p><a href="#">詳細はこちら</a></p>
           </div>
         </div>
       </div>
-
       <div class="product2-item">
         <div class="product2-top">
           <img src="~assets/image/thumbnail (4).jpg" alt="">
         </div>
         <div class="product2-bottom">
-          <div class="product2-center">
+          <div class="product2-logo">
             <img src="~assets/image/logo (1).svg" alt="">
             <p>メープルバタークッキー</p>
+          </div>
+          <div class="product2-text">
             <p>メープルシュガーと発酵バターを生地にたっぷりと練りこみ、サクサクと軽い食感に焼き上げたクッキーでバターチョコレートをサンドしました。発売当初から愛されている人気No.１商品です。</p>
           </div>
-          <div class="product2-number">
-            <p>9 枚入</p>
-            <p>950 円 (税込)</p>
-          </div>
-          <div class="product2-number">
-            <p>18 枚入</p>
-            <p>1,900 円 (税込)</p>
-          </div>
-          <div class="product2-number">
-            <p>32 枚入</p>
-            <p>3,370 円 (税込)</p>
-          </div>
+          <div class="produst2-price">
+            <div class="product2-flex">
+              <p>9枚入</p>
+              <p class="product2-margin">950円(税別)</p>
+            </div>
+            <div class="product2-flex">
+              <p>18枚入</p>
+              <p class="product2-margin">1.900円(税別)</p>
+            </div>
+            <div class="product2-flex">
+              <p>32枚入</p>
+              <p class="product2-margin">3,370円(税別)</p>
+            </div>
+             </div>
+
           <div class="product-detail">
-            <p>詳細はこちら</p>
+            <p><a href="#">詳細はこちら</a></p>
           </div>
         </div>
       </div>
-
       <div class="product2-item">
         <div class="product2-top">
           <img src="~assets/image/thumbnail (4).jpg" alt="">
         </div>
         <div class="product2-bottom">
-          <div class="product2-center">
+          <div class="product2-logo">
             <img src="~assets/image/logo (1).svg" alt="">
             <p>メープルバタークッキー</p>
+          </div>
+          <div class="product2-text">
             <p>メープルシュガーと発酵バターを生地にたっぷりと練りこみ、サクサクと軽い食感に焼き上げたクッキーでバターチョコレートをサンドしました。発売当初から愛されている人気No.１商品です。</p>
           </div>
-          <div class="product2-number">
-            <p>9 枚入</p>
-            <p>950 円 (税込)</p>
-          </div>
-          <div class="product2-number">
-            <p>18 枚入</p>
-            <p>1,900 円 (税込)</p>
-          </div>
-          <div class="product2-number">
-            <p>32 枚入</p>
-            <p>3,370 円 (税込)</p>
-          </div>
+          <div class="produst2-price">
+            <div class="product2-flex">
+              <p>9枚入</p>
+              <p class="product2-margin">950円(税別)</p>
+            </div>
+            <div class="product2-flex">
+              <p>18枚入</p>
+              <p class="product2-margin">1.900円(税別)</p>
+            </div>
+            <div class="product2-flex">
+              <p>32枚入</p>
+              <p class="product2-margin">3,370円(税別)</p>
+            </div>
+             </div>
+
           <div class="product-detail">
-            <p>詳細はこちら</p>
+            <p><a href="#">詳細はこちら</a></p>
           </div>
         </div>
       </div>
+
+      
+
     </div>
     </div>
 
@@ -465,6 +570,7 @@
        </div>
       </div> 
     </div>
+    
   </div>
 </section>
 
@@ -756,6 +862,11 @@
     margin:0;
     padding:0;
 }
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
 .orange-line{
     width: 8.3%;
     height: 100%;
@@ -771,20 +882,45 @@
         position: relative;
         background-color: #fa8500;
     }
+    .buy{
+        padding-top:2vw;
+        padding-left:3vw;
+        img{
+            width:3vw;
+        }
+    }
     .buy-item{
         writing-mode: vertical-rl;
+        color:#FFF;
+        padding-top:1vw;
+        padding-left:0.5vw;
+        
     }
-    .orange-image img{
-        width:5vw;
+    .buy-border{
+        border:1px solid #FFF;
+        width:3vw;
+        margin-top:4vw;
+    }
+    .orange-image{
+        padding-top:5vw;
+        img{
+            width:5vw;
+            margin-top:3vw;
+           margin-left:1.7vw;
+        }
     }
 }
+
 .top{
     max-width: 2000px;
     width:91.7%;
     background-image: url(~assets/image/bg-01.jpg);
+    .top-main{
+        padding-bottom:3vw;
+    }
     a{
         text-decoration: none;
-        color: initial;
+        color:#58280F;
     }
     ul{
         display:flex;
@@ -797,10 +933,20 @@
         .nav-left{
             padding-top:3vw;
             padding-left:3vw;
+            li{
+                margin-right:1vw;
+                font-weight:bold;
+                color:#58280F;
+            }
         }
         .nav-right{
             padding-top:3vw;
             padding-right:3vw;
+            li{
+                margin-right:1vw;
+                font-weight:bold;
+                color:#58280F;
+            }
         }
     }
     .top-image1{
@@ -813,8 +959,8 @@
     .top-image2 img{
         width:30vw;
         position: absolute;
-        top:0;
-        left:33vw;
+        top:5vw;
+        left:32vw;
     } 
 }
 
@@ -831,14 +977,42 @@
     }
     .day-top1{
         display:flex;
-        width:40vw;
+        width:45vw;
+        padding-top:2vw;
+        padding-bottom:2vw;
+        padding-left:3vw;
+    }
+    .day-bottom{
+        padding-bottom:2vw;
     }
     .day-bottom1{
         display:flex;
         justify-content: center;
+        border:1px solid #562608;
+        background-color: #FFF;
+        border-radius: 50px;
+        width:22vw;
+        margin:0 auto;
+        padding:1vw 1.5vw;
     }
     .day-right img{
-        width:10vw;
+        width:2vw;
+    }
+    .day-left p{
+        margin-bottom:0;
+        margin-right:2vw;
+    }
+    .day-left a{
+        color: #562608;
+        font-size:1.5vw;
+    }
+    .day-text{
+        padding-left:1vw;
+        p{
+            color:#562608;
+            font-weight:bold;
+            font-size:0.9vw;
+        }
     }
 }
 
@@ -849,15 +1023,31 @@
     .info-top{
         display:flex;
         flex-wrap: wrap;
+        padding-left:5vw;
     }
     .info1{
         display:flex;
         img{
-            width:4vw;
+            width:1vw;
+        }
+        h2{
+            font-size:1.5vw;
+            color: #562608;
+            margin-bottom:0;
         }
     }
     .info-item{
-        width:30vw;
+        width:27vw;
+        margin-bottom:3vw;
+        h3{
+            color: #562608;
+            font-size:1.3vw;
+            padding-bottom:1vw;
+        }
+        p{
+            font-size:0.8vw;
+            color: #562608;
+        }
     }
     
     .info-dog{
@@ -865,22 +1055,75 @@
     }
     .info-cale{
         display:flex;
+        img{
+            width:2vw;
+            height:2vw;
+        }
+        p{
+            margin-top:0.5vw;
+            font-size:0.8vw;
+            color: #562608;
+        }
     }
     .info-time{
         display:flex;
+        img{
+            width:2vw;
+            height:2vw;
+        }
+        p{
+            margin-top:0.5vw;
+            font-size:0.8vw;
+            color: #562608;
+        }
     }
     .info-map{
         display:flex;
+        img{
+            width:2vw;
+            height:2vw;
+        }
+        p{
+            margin-top:0.5vw;
+            font-size:0.8vw;
+            color: #562608;
+        }
     }
     .google-map{
         display:flex;
+        justify-content: space-between;
+        border: 1px solid #562608;
+        background-color:#562608;
+        border-radius: 25px;
+        width:11vw;
+        margin-bottom:1vw;
+        .info-text{
+            padding-top:0.5vw;
+            padding-bottom:0.5vw;
+            padding-left:1vw;
+        }
         img{
-            width:5vw;
+            width:2vw;
+            padding-right:1vw;
+        }
+        p{
+            color:#FFF;
+            margin-bottom:0;
         }
     }
     
     .info-gift{
         display:flex;
+        img{
+            width:2vw;
+            height:2vw;
+        }
+        p{
+            margin-top:0.5vw;
+            font-size:0.8vw;
+            color: #562608;
+            margin-bottom:0;
+        }
     }
     .info-bottom{
         display: flex;
@@ -889,40 +1132,167 @@
             width:30vw;
         }
     }
+    .gift-box1{
+        display:flex;
+    }
+    .gift-margin{
+        margin-right:4vw;
+    }
+    
+
 }
 
 
 .product{
     max-width:2000px;
     width:91.7%;
-    background-image: url(~assets/image/bg-02.jpg);
+    background-image: url(~assets/image/bg-04.jpg);
     .product1{
-        text-align: center;
+        width:20vw;
+        margin:0 auto;
+        padding-bottom:4vw;
     }
+    .product1-center{
+        width:19vw;
+        height:9vw;
+        border-radius: 0 0 10vw 10vw;
+        background-color:#FFF;
+        color: #562608;
+        h3{
+            font-size:1.5vw;
+            text-align: center;
+            padding-top:3vw;
+        }
+        p{
+            font-size:1vw;
+            text-align: center;
+        }
+    }
+
+    .product-main{
+        width:95%;
+        margin:0 auto;
+    }
+
     .product2-center{
         display:flex;
         flex-wrap: wrap;
     }
     .product2-top img{
-        width:30vw;
+        width:26vw;
     }
-    .product2-center img{
-        width:30vw;
+    .product2-margin{
+        padding-right:5vw;
     }
+    
+   .product2-bottom{
+        color: #562608;
+        width:90%;
+        margin:0 auto;
+   }
+   .product2-logo{
+       width:23vw;
+       text-align: center; 
+       margin-top:2vw;
+       img{
+        width:15vw;
+        margin:0 auto;
+    }
+       p{
+           font-size:1vw;
+           position: relative;
+           padding-top:1vw;
+           padding-bottom:1.5vw;
+       }
+       p:after{
+        content: "";
+        display: block;
+        width: 40px;
+        height: 2px;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        background-color: rgba(86, 38, 8, 0.2);
+       }
+   }
+   .product2-text{
+       width:23vw;
+       position: relative;
+       p{
+        font-size:1vw;
+        padding-bottom:2vw;
+       }
+       p:after{
+        content: "";
+        display: block;
+        width: 40px;
+        height: 2px;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        background-color: rgba(86, 38, 8, 0.2);
+       }
+   }
+   
+   
     .product2-item{
-        width:30vw;
+        width:26vw;
+        background-color:#FFF;
+        margin-right:3vw;
+        margin-bottom:3vw;
+    }
+    .product2-flex{
+        display:flex;
+        justify-content: space-between;
+    }
+    .product-detail{
+        background-color:#562608;
+        border-radius: 25px;
+        width:10vw;
+        margin: 0 auto;
+        p{
+            font-size:1vw;
+            padding:0.5vw 2vw;
+        }
+        a{
+            color:#FFF;
+        }
+    }
+
+    .product3{
+       width:60%;
+       margin:0 auto;
     }
     .product3-center{
         display:flex;
         justify-content: center;
+        background-color:#FAF8ED;
         img{
-            width:9vw;
+            width:4vw;
         }
     }
     .online{
         display:flex;
+        width:10vw;
+        height:2vw;
+        justify-content: space-between;
+        background-color:#fa8500;
+        border-radius: 25px;
+        color:#FFF;
+        p{
+            font-size:1vw;
+            height:2vw;
+        }
+        img{
+            width:2vw;
+        }
     }
 }
+
 
 
 .boy{
